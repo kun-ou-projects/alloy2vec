@@ -39,7 +39,7 @@ for i, period in enumerate(df['Year Period'].unique()):
         labels.append(row['Materials'])
         if country_column_exists:
             appeared_countries.add(row['Country'])
-            point_colors.append(country_colors.get(row['Country'], default_color))  # 如果未指定，默认为默认颜色
+            point_colors.append(country_colors.get(row['Country'], default_color)) 
         else:
             point_colors.append(default_color)
         label_positions.append(row.get('label_position', 'right'))
