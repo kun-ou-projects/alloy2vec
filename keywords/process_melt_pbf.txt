@@ -1,0 +1,11 @@
+powder_bed_fusion PBF
+3D_PBF 3D_powder_bed_fusion
+laser_powder_bed_fusion LPBF
+powder_bed_fusion
+selective_laser_sintering
+selective_laser_melting
+laser_cusing lasercusing
+direct_metal_laser_sintering
+electron_beam_melting
+laser_metal_fusion
+powder_layer_fusion

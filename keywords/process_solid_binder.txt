@@ -1,0 +1,8 @@
+binder_jetting BJ binder_jet binder_jetting_technology BJT
+inkjet_3D_printing inkjet_printing
+metal_binder_jetting metal binder_jetting
+drop-on-powder_printing drop_on_demand
+jetted_metal_printing
+metallic_binder_jet_fabrication
+binder_jet
+binder_jet_3D_metal_forming 3D_Laser_Forming laser_forming

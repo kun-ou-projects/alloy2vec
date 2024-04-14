@@ -1,0 +1,8 @@
+extrusion_3D_printing extrusion_based_3D_printing
+additive_extrusion
+friction_extrusion
+direct_metal_extrusion
+direct_extrusion
+direct_ink_writing
+material_extrusion_additive_manufacturing
+thermoplastic_extrusion

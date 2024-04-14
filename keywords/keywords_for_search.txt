@@ -1,0 +1,6 @@
+creep
+irradiation
+corrosion
+hydrogen_embrittlement
+Ni_based_superalloy
+superalloy

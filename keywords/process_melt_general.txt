@@ -1,0 +1,5 @@
+melt_based
+electron_beam_additive_manufacturing EBF3
+laser_additive_manufacturing
+laser_aided_additive_manufacturing LAAM
+direct_metal_printing
